@@ -23,3 +23,8 @@ https://www.linkedin.com/in/srisrisrikanth/
 Happy Learning!
 
 Data Dharma by Srikanth
+
+
+Databricks Community Edition
+Runtime: 16.x
+Language: Python
